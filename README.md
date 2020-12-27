@@ -32,7 +32,3 @@
 **部署：**
 
 配置vue项目在服务器运行的环境
-=======
-# smart
-Smart Forecast
->>>>>>> 0dd07ecce18419f1e7cbf0bf306c825af32b0fc0
